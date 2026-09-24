@@ -1,0 +1,27 @@
+{
+  "name": "api-book",
+  "version": "1.0.0",
+  "description": "Aula Frameworks back-end | Node.js e Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotap-tech/api-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jotap-tech/api-book/issues"
+  },
+  "homepage": "https://github.com/jotap-tech/api-book#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6"
+  }
+}
